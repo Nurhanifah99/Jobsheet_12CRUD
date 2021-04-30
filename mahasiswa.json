@@ -1,0 +1,35 @@
+{
+  "posts": [
+    {
+      "id": 1614678483651,
+      "NIM": "1841720062",
+      "nama": "Nur Hanifah",
+      "alamat": "Kab.Malang",
+      "hp": "0974678769778",
+      "angkatan": "2018",
+      "status": "aktif donk"
+    },
+    {
+      "id": 1614679523236,
+      "NIM": "1841720062",
+      "nama": "Hanifah",
+      "alamat": "malang",
+      "hp": "098765432345678",
+      "angkatan": "2018",
+      "status": "singel"
+    },
+    {
+      "id": 1614680372071,
+      "NIM": "1841720062",
+      "nama": "Nur Hanifah",
+      "alamat": "jln.raya bamban rt.05 rw.05 Kec.Pakis Kab.Malang",
+      "hp": "083890789199",
+      "angkatan": "2018",
+      "status": "aktif donk"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
